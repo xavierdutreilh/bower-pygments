@@ -38,6 +38,7 @@
 .nv { color: #336699 } /* Name.Variable */
 .ow { color: #008800 } /* Operator.Word */
 .w { color: #bbbbbb } /* Text.Whitespace */
+.mb { color: #0000DD; font-weight: bold } /* Literal.Number.Bin */
 .mf { color: #0000DD; font-weight: bold } /* Literal.Number.Float */
 .mh { color: #0000DD; font-weight: bold } /* Literal.Number.Hex */
 .mi { color: #0000DD; font-weight: bold } /* Literal.Number.Integer */

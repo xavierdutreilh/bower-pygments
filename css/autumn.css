@@ -36,6 +36,7 @@
 .nv { color: #aa0000 } /* Name.Variable */
 .ow { color: #0000aa } /* Operator.Word */
 .w { color: #bbbbbb } /* Text.Whitespace */
+.mb { color: #009999 } /* Literal.Number.Bin */
 .mf { color: #009999 } /* Literal.Number.Float */
 .mh { color: #009999 } /* Literal.Number.Hex */
 .mi { color: #009999 } /* Literal.Number.Integer */
