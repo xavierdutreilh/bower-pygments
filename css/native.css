@@ -9,8 +9,10 @@
 .o { color: #d0d0d0 } /* Operator */
 .x { color: #d0d0d0 } /* Other */
 .p { color: #d0d0d0 } /* Punctuation */
+.ch { color: #999999; font-style: italic } /* Comment.Hashbang */
 .cm { color: #999999; font-style: italic } /* Comment.Multiline */
 .cp { color: #cd2828; font-weight: bold } /* Comment.Preproc */
+.cpf { color: #999999; font-style: italic } /* Comment.PreprocFile */
 .c1 { color: #999999; font-style: italic } /* Comment.Single */
 .cs { color: #e50808; font-weight: bold; background-color: #520000 } /* Comment.Special */
 .gd { color: #d22323 } /* Generic.Deleted */

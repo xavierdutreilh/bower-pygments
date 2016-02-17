@@ -2,7 +2,9 @@
 .c { font-style: italic } /* Comment */
 .err { border: 1px solid #FF0000 } /* Error */
 .k { font-weight: bold } /* Keyword */
+.ch { font-style: italic } /* Comment.Hashbang */
 .cm { font-style: italic } /* Comment.Multiline */
+.cpf { font-style: italic } /* Comment.PreprocFile */
 .c1 { font-style: italic } /* Comment.Single */
 .cs { font-style: italic } /* Comment.Special */
 .ge { font-style: italic } /* Generic.Emph */

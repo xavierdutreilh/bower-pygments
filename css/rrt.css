@@ -1,8 +1,10 @@
 .hll { background-color: #0000ff }
 .c { color: #00ff00 } /* Comment */
 .k { color: #ff0000 } /* Keyword */
+.ch { color: #00ff00 } /* Comment.Hashbang */
 .cm { color: #00ff00 } /* Comment.Multiline */
 .cp { color: #e5e5e5 } /* Comment.Preproc */
+.cpf { color: #00ff00 } /* Comment.PreprocFile */
 .c1 { color: #00ff00 } /* Comment.Single */
 .cs { color: #00ff00 } /* Comment.Special */
 .kc { color: #ff0000 } /* Keyword.Constant */

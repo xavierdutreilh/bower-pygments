@@ -5,8 +5,10 @@
 .l { color: #1C01CE } /* Literal */
 .n { color: #000000 } /* Name */
 .o { color: #000000 } /* Operator */
+.ch { color: #177500 } /* Comment.Hashbang */
 .cm { color: #177500 } /* Comment.Multiline */
 .cp { color: #633820 } /* Comment.Preproc */
+.cpf { color: #177500 } /* Comment.PreprocFile */
 .c1 { color: #177500 } /* Comment.Single */
 .cs { color: #177500 } /* Comment.Special */
 .kc { color: #A90D91 } /* Keyword.Constant */

@@ -3,8 +3,10 @@
 .err { border: 1px solid #FF0000 } /* Error */
 .k { color: #007020; font-weight: bold } /* Keyword */
 .o { color: #666666 } /* Operator */
+.ch { color: #60a0b0; font-style: italic } /* Comment.Hashbang */
 .cm { color: #60a0b0; font-style: italic } /* Comment.Multiline */
 .cp { color: #007020 } /* Comment.Preproc */
+.cpf { color: #60a0b0; font-style: italic } /* Comment.PreprocFile */
 .c1 { color: #60a0b0; font-style: italic } /* Comment.Single */
 .cs { color: #60a0b0; background-color: #fff0f0 } /* Comment.Special */
 .gd { color: #A00000 } /* Generic.Deleted */
