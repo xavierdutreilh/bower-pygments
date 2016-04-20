@@ -1,6 +1,6 @@
 {
   "name": "pygments",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Bower package for Pygments",
   "main": [
     "css/"
